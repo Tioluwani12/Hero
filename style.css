@@ -1,0 +1,13 @@
+body{
+    color :rgb(127, 255, 144);
+    background-image: linear-gradient(to right top, #0394f4, #04d1fa, #01ec6b, #5cc80f, #1cb1d3);
+}
+
+h1{
+    color :cornflowerblue;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+    
+}
+
+h4{
+    color :crimson
+}
